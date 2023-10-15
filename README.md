@@ -5,6 +5,11 @@ Este é um diagrama UML que representa a estrutura de classes e interfaces para 
 
 iphone
 
+![image](https://github.com/Rei-Alves/Diagramacao-de-Classes-do-iPhone/assets/67790758/d57fe740-9e85-4cea-b40f-973b0d3e8c33)
+
+
+
+
 Descrição das Interfaces e Classes
 Reprodutor Musical (ReprodutorMusical)
 A interface Reprodutor Musical é responsável por implementar a funcionalidade de reprodução de arquivos de áudio. Ela possui métodos como tocar(), pausar(), e selecionarMusica(). A classe Musica armazena informações sobre as músicas.
